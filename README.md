@@ -7,4 +7,4 @@ Navigate to C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilizati
 Replace the file there with this one
 
 How to play:
-This mod is made for short games. Play starting in the classical era, with a 120 turn game set to a score vicoty only.
+This mod is made for short games. Play starting in the classical era, with a 120 turn game set to a score victory only.
