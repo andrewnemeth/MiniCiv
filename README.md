@@ -6,4 +6,8 @@ A Mod Of Civ V Lekmod 16.2 for a 2-hour game of Civ
 2. Navigate to C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization V\Assets\DLC\ and add the unzipped folder
 
 # How to play:
-This mod is made for short games. Play starting in the classical era, with a 150 turn game set to a score victory only.
+This mod is made for short games. Play with the following settings:
+* start in the classical era
+* 150 turn game 
+* score victory only
+* quick speed
