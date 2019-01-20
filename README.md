@@ -11,3 +11,5 @@ This mod is made for short games. Play with the following settings:
 * 150 turn game 
 * score victory only
 * quick speed
+* AI Cannot Build Wonders
+* AI cannot spread religion
