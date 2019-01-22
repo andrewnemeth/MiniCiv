@@ -10,6 +10,7 @@ This mod is made for short games. Play with the following settings:
 * no city states
 * start in the classical era
 * quick speed
+* Sea Level Medium
 * score victory only
 * 150 turn game 
 * 180 turn timer
