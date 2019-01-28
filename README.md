@@ -8,7 +8,7 @@ A Mod Of Civ V Lekmod 16.2 for a 2-hour game of Civ
 # How to play:
 This mod is made for short games. Play with the following settings:
 * private
-pangea
+* pangea
 * no city states
 * quick speed
 * start in the classical era
