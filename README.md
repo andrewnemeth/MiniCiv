@@ -11,6 +11,7 @@ This mod is made for short games. Play with the following settings:
 * pangea
 * no city states
 * quick speed
+* simultaneous turns
 * start in the classical era
 * resources: legendary start
 * score victory only
