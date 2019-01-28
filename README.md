@@ -13,7 +13,7 @@ This mod is made for short games. Play with the following settings:
 * quick speed
 * Sea Level High
 * score victory only
-* 150 turn game 
+* 120 turn game 
 * 180 turn timer
 * AI Cannot Build Wonders
 * AI cannot spread religion
