@@ -15,7 +15,7 @@ This mod is made for short games. Play with the following settings:
 * start in the classical era
 * resources: legendary start
 * score victory only
-* 120 turn game 
+* 130 turn game 
 * 180 turn timer
 * AI Cannot Build Wonders
 * AI cannot spread religion
