@@ -8,11 +8,12 @@ A Mod Of Civ V Lekmod 16.2 for a 2-hour game of Civ
 # How to play:
 This mod is made for short games. Play with the following settings:
 * private
+* pangea
 * no city states
-* start in the classical era
 * quick speed
+* resources: legendary start
 * score victory only
-* 150 turn game 
+* 130 turn game 
 * 180 turn timer
 * AI Cannot Build Wonders
 * AI cannot spread religion
